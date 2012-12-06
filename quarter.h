@@ -1,0 +1,1 @@
+void regionmenu(int type);
