@@ -18,6 +18,7 @@ using namespace std;
 #define THREE 3
 #define FOUR 4
 #define FIVE 5
+#define SIX 6
 
 #ifdef WIN32
 #define CLR system("cls")
@@ -31,6 +32,6 @@ enum REPORT{SALES, HISTO};
 enum REGION{US, Canada, Mexico};
 
 void jagmenu();
-//#include "quarter.h"
+#include "quarter.h"
 #include "quartermenu.h"
 #include "regionmenu.h"
