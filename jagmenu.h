@@ -32,5 +32,5 @@ enum REGION{US, Canada, Mexico};
 
 void jagmenu();
 //#include "quarter.h"
-//#include "quartermenu.h"
+#include "quartermenu.h"
 #include "regionmenu.h"
